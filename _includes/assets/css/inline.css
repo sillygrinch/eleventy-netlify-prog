@@ -21,6 +21,7 @@ body {
 }
 
 body {
+	text-align: center;
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
@@ -55,10 +56,12 @@ img {
 header,
 main,
 footer {
+	text-align: center;
 	padding: 1em;
 }
 
 main {
+	text-align: center;
 	padding-bottom: 2em;
 }
 
@@ -138,6 +141,7 @@ main > section > article > * {
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
+	text-align: center;
 	display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
