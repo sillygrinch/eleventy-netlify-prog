@@ -9,5 +9,7 @@ eleventyNavigation:
 ---
 
 
-# I like reading and other cool stuff 
+# I write stuff sometimes 
+ 
+## its not always good 
 
