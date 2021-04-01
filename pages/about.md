@@ -13,5 +13,5 @@ eleventyNavigation:
   its not always good 
   
 
-![Profile](/static/img/profile.jpeg){height=400px width=500px}
-
+![Profile](/static/img/profile.jpeg)
+{ width=50% }
