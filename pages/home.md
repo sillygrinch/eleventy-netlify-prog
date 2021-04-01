@@ -8,6 +8,6 @@ eleventyNavigation:
   order: 0
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vehicula, elit vel condimentum porta, purus.
+### coming soon
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://www.youtube.com/watch?v=lJJT00wqlOo
