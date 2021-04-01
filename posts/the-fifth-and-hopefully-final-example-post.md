@@ -8,5 +8,5 @@ tags:
 ---
 
 
-![A sample inlined image](profile.jpeg)
+![Profile](/Users/maitreyeejoshi/eleventy-netlify-prog/eleventy-netlify-prog/static/img/profile.jpeg)
 
