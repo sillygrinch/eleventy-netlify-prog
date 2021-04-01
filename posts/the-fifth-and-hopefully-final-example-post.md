@@ -8,5 +8,6 @@ tags:
 ---
 
 
-![Profile](/Users/maitreyeejoshi/eleventy-netlify-prog/eleventy-netlify-prog/static/img/profile.jpeg)
+![Profile](/static/img/profile.jpeg)
+
 
