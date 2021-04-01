@@ -8,4 +8,6 @@ eleventyNavigation:
   order: 0
 ---
 
-<video src="https://www.youtube.com/watch?v=lJJT00wqlOo" onloadstart="this.volume=0.2">
+<video src=" onloadstart="this.volume=0.2">
+
+![caption](/static/img/gif-2.gif GIF)
