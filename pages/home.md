@@ -7,4 +7,5 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-[![Watch the video](/static/img/steven.png)](https://www.youtube.com/watch?v=lJJT00wqlOo)
+
+<video src="https://www.youtube.com/watch?v=lJJT00wqlOo" onloadstart="this.volume=0.2">
