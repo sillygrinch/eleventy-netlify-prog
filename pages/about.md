@@ -13,6 +13,6 @@ eleventyNavigation:
   its not always good 
   
 
-![Profile](/static/img/profile.jpeg =100x20)
+![Profile](/static/img/profile.jpeg){:height="36px" width="36px"}
 
 
