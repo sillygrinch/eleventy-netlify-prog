@@ -78,7 +78,7 @@ main > article :first-child {
 
 pre {
 	text-align: center;
-	font-size: 14px;
+	font-size: 15px;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
@@ -98,7 +98,7 @@ pre {
 header > em {
 	text-align: center;
 	display: block;
-	font-size: 2em;
+	font-size: 5em;
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
@@ -222,10 +222,3 @@ button {
 	}
 
 }
-
-.one {
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	gap: 10px;
-	grid-auto-rows: minmax(100px, auto);
-  }
