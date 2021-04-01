@@ -8,5 +8,5 @@ tags:
 ---
 
 
-![A sample inlined image](https://source.unsplash.com/random/600x400)
+![A sample inlined image](profile.jpeg)
 
