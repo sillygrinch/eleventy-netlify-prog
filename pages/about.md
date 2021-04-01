@@ -8,12 +8,16 @@ eleventyNavigation:
   order: 1
 ---
 
-# I write stuff sometimes 
-<h1 alig="center"> its not always good</h1>
+## I write stuff sometimes 
+its not always good
   
 
 <img class="left" src="/static/img/profile.jpeg" width="150" height="150">
 
+   <a> Follow me  </a>
+  <a href="https://twitter.com/sillygrinch" class="fa fa-twitter"></a>
+  <a href="https://www.linkedin.com/in/maitreyeemjoshi/" class="fa fa-linkedin"></a> 
+  <a href="https://www.instagram.com/maitreye.joshi/" class="fa fa-instagram"></a>
 
 
 
