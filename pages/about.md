@@ -15,3 +15,4 @@ eleventyNavigation:
 
 ![Profile](/static/img/profile.jpeg)
 { width=50% }
+<img src="/static/img/profile.jpeg" width="48">
