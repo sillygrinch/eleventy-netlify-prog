@@ -2,6 +2,7 @@
 	--primary: rgb(12, 43, 5);
 	--secondary: rgb(200, 207, 162);
 	--background: #a2ca9d;
+
 }
 
 *, *:before, *:after {
@@ -10,6 +11,7 @@
 
 html,
 body {
+    height: 100%;
 	padding: 1em;
 	margin: auto;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -20,6 +22,7 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+    vertical-align: middle;
 }
 
 main {
@@ -85,6 +88,7 @@ header > em {
 	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
+
 }
 
 /* Header Nav */
