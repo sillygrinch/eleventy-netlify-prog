@@ -13,4 +13,4 @@ eleventyNavigation:
   its not always good 
   
 
-<img class="center" src="/static/img/profile.jpeg" width="50">
+<img class="center" src="/static/img/profile.jpeg" width="100" height="100>
