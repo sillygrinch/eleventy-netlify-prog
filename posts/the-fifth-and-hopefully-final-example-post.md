@@ -1,11 +1,10 @@
 ---
-title: The fifth and hopefully final example post
+title: something about stuff
 date: 2020-10-15T12:23:39.598Z
 author: Maitreyee Joshi
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: something about stuff
 tags:
   - environment
-  - sport
 ---
 
 

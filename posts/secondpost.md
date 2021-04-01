@@ -1,6 +1,6 @@
 ---
-title: This is the second example post
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: something about stuff
+summary: something about stuff
 date: 2020-01-01
 author: Maitreyee Joshi
 tags:
