@@ -8,5 +8,4 @@ eleventyNavigation:
   order: 0
 ---
 
-
-<img src="https://pixabay.com/images/id-1647341/">
+<img  src="/static/img/dab.jpg">
