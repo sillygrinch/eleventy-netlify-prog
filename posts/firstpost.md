@@ -1,15 +1,13 @@
 ---
-title: something about stuff
-metaDescription: something about stuff
+title: why c++ sucls
+metaDescription: something about stufff
 date: 2019-01-01T00:00:00.000Z
 author: Maitreyee Joshi
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: how to deal with c++
 tags:
   - tech
 ---
 ## Write about C++
-
-
 
 
 ``` text/2-3
