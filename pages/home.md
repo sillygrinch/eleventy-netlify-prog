@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 
 
-![caption](static/img/gif-2.gif)
+[elephant](static/img/gif-3.gif)
