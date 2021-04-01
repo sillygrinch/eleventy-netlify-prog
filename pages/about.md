@@ -10,6 +10,9 @@ eleventyNavigation:
 
 
 # I write stuff sometimes 
- 
-## its not always good 
+  its not always good 
+  
+
+![Profile](/static/img/profile.jpeg ==100x20)
+
 
