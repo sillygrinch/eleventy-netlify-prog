@@ -1,8 +1,8 @@
 ---
-title: something about stuffq
+title: vegan article
 date: 2020-01-01
 author: Maitreyee Joshi
-summary: something about stuffq
+summary: meat is bad
 tags:
   - tech
   - politics

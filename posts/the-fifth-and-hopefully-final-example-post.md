@@ -1,8 +1,8 @@
 ---
-title: something about stuff
+title: save the enviorment
 date: 2020-10-15T12:23:39.598Z
 author: Maitreyee Joshi
-summary: something about stuff
+summary: but how?
 tags:
   - environment
 ---

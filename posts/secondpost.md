@@ -1,6 +1,6 @@
 ---
-title: something about stuff
-summary: something about stuff
+title: racket and more stuff
+summary: cool flashcards
 date: 2020-01-01
 author: Maitreyee Joshi
 tags:

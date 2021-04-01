@@ -1,13 +1,13 @@
 ---
-title: This is the fourth example post
+title: veganism is good?
 date: 2020-02-03
 author: Maitreyee Joshi
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: why is it good?
 tags:
-  - environment
   - politics
+  - vegan
 ---
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## burden of proof for vegans
 
 ![A sample inlined image](https://source.unsplash.com/random/600x400)
 
