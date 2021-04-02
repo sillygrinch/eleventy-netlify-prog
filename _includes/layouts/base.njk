@@ -8,12 +8,12 @@
 		<header>
 			<em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+                 <img src="/static/img/logo.png" width="50" height="60">
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
 
 		<main>
-
 			{{ layoutContent | safe }}
 		</main>
 

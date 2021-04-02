@@ -4,7 +4,7 @@ date: 2020-01-01
 author: Maitreyee Joshi
 summary: Social Media App
 tags:
-  - project
+  - projects
 ---
 
 <img src="/static/img/home.png" height="200" width="300">
