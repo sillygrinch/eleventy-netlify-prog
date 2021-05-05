@@ -6,7 +6,7 @@ summary: Social Media App
 tags:
   - projects
 ---
-
+&nbsp;
 <img src="/static/img/home.png" height="200" width="300">
 
 <img src="/static/img/posts.png" height="200" width="300">

@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+section: projects
+permalink: /projects/index.html
+---
+{{ layoutContent | safe }}
+
+{% set projectslist = collections.projects %}
+{% include "components/projectslist.njk" %}

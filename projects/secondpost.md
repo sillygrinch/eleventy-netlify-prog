@@ -6,6 +6,7 @@ author: Maitreyee Joshi
 tags:
   - projects
 ---
+&nbsp;
 <a style="font-size:2rem;" href="https://github.com/sillygrinch/Proof-of-Powerlist/blob/main/CS2800Final-3-2.pdf">Length of PowerList</a>
 
 ![powerlist](/static/img/powerlist.png)

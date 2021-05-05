@@ -6,11 +6,12 @@ summary:
 tags:
   - food
 ---
+&nbsp;
 ## Sun Gold tomatoes with Kale and fresh mozz
 
 ![A sample inlined image](/static/img/pasta.jpeg)
 
-
+&nbsp;
 ## INGREDIENTS
 
 > Buckets of extra-virgin olive oil, depending on cardiac conditions
@@ -21,7 +22,7 @@ tags:
 > 6 ounces capellini, spaghetti, or bucatini
 > 3/4 cup finely grated Pecorino or fresh mozz or burrata **[NOTHING ELSE! DONT EVEN SAY PARM]**
 > shit ton of basil leaves
-
+&nbsp;
 ## PROCEDURE
 
 > Cook the pasta and reserve the precious pasta water [**Has to be Al dente**]

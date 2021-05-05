@@ -1,0 +1,9 @@
+{
+    "layout": "layouts/projectslist.njk",
+    "permalink": "projects/{{ title | slug }}/index.html",
+    "author": "Anonymous",
+    "tags": [
+      "projects"
+    ]
+  }
+  
