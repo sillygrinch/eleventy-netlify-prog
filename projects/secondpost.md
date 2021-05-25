@@ -1,6 +1,6 @@
 ---
-title: Papers
-summary: 
+title: KenKen Solver
+summary: Fun SAT based solver and other academic papers
 date: 2020-01-01
 author: Maitreyee Joshi
 tags:
@@ -11,7 +11,7 @@ tags:
 
 ![powerlist](/static/img/powerlist.png)
 
-<a style="font-size:2rem;" href="/static/pdf/powerlist.pdf">SAT-based 3D KenKen Solver</a>
+<a style="font-size:2rem;" href="https://github.com/sillygrinch/KenKenSolver/blob/main/CS2800.pdf">SAT-based 3D KenKen Solver</a>
 
 ![kenken](/static/img/kenken.png) <a href="https://github.com/sillygrinch/KenKenSolver" class="fa fa-github"></a>
 
