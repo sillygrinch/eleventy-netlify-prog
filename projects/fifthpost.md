@@ -3,7 +3,7 @@ title: Charitabl-E
 metaDescription: Donations easier 
 date: 2021-01-01T00:00:00.000Z
 author: Maitreyee Joshi
-summary: Animate whatever whenever
+summary: Donate whatever whenever
 tags:
   - projects
 ---
